@@ -17,14 +17,14 @@ import json
 from userbot import BOTLOG, BOTLOG_CHATID, CMD_HELP, bot
 from userbot.events import register
 
-@register(outgoing=True, pattern="^.wtf$")
+@register(outgoing=True, pattern="^.wtff$")
 async def wtf(e):
     await e.edit("🤬               🤬\n🤬               🤬\n🤬               🤬\n🤬     🤬     🤬\n🤬🤬    🤬🤬\n\n🤬🤬🤬🤬\n       🤬\n       🤬\n       🤬\n       🤬\n\n🤬🤬🤬🤬\n🤬\n🤬🤬🤬\n🤬\n🤬")
 
         
     
     CMD_HELP.update({
-    'wtf':
-    '.wtf\
+    'wtff':
+    '.wtff\
 \nUsage: gives a nice WTF as output.'
 })
