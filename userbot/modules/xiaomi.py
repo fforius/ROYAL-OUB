@@ -237,4 +237,4 @@ CMD_HELP.update({
 \n\n.vendor (codename)\
      \nUsage : Get latest vendor\
 \n\n.firmware (codename)\
-     \nUsage : Get latest firmware"})  
+     \nUsage : Get latest firmwareRecovery"})
