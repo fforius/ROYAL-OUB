@@ -233,8 +233,8 @@ CMD_HELP.update({
 \n\n.of (codename)\
      \nUsage : Get latest ORangeFox Recovery\
 \n\n.of (codename)\
-     \nUsage : Get latest xiaomi . eu\   
+     \nUsage : Get latest xiaomi.eu\
 \n\n.vendor (codename)\
      \nUsage : Get latest vendor\
 \n\n.firmware (codename)\
-     \nUsage : Get latest firmwareRecovery"})
+     \nUsage : Get latest firmware Recovery"})
